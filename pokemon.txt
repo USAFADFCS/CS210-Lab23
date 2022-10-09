@@ -1,0 +1,11 @@
+Bulbasaur 45 49 49 45
+Charmander 39 52 43 65
+Squirtle 44 48 65 43
+Caterpie 45 30 35 45
+Weedle 40 35 30 50
+Pidgey 40 45 40 56
+Rattata 30 56 35 72
+Spearow 40 60 30 70
+Ekans 35 60 44 55
+Pikachu 35 55 40 90
+Sandshrew 50 75 85 40
